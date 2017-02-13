@@ -15,7 +15,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone https://github.com/tiagopossato/emberfire-auth-google` this repository
 * `cd emberfire-auth-google`
 * `npm install`
 * `bower install`
