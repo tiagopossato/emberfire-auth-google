@@ -1,6 +1,6 @@
 /* jshint node: true */
 
-module.exports = function(environment) {
+module.exports = function (environment) {
   var ENV = {
     modulePrefix: 'almoxarifado',
     environment: environment,
@@ -20,6 +20,16 @@ module.exports = function(environment) {
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created
+    },
+    firebase: {
+      apiKey: "AIzaSyCyEDPMcBaf0tXALCCUKGDF18T1WPIOyzI",
+      authDomain: "laboratorios-ifc.firebaseapp.com",
+      databaseURL: "https://laboratorios-ifc.firebaseio.com",
+      storageBucket: "laboratorios-ifc.appspot.com",
+      messagingSenderId: "680686690857"
+    },
+    torii: {
+      sessionServiceName: 'session'
     }
   };
 
