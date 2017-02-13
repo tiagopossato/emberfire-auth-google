@@ -22,11 +22,11 @@ module.exports = function (environment) {
       // when it is created
     },
     firebase: {
-      apiKey: "AIzaSyCyEDPMcBaf0tXALCCUKGDF18T1WPIOyzI",
-      authDomain: "laboratorios-ifc.firebaseapp.com",
-      databaseURL: "https://laboratorios-ifc.firebaseio.com",
-      storageBucket: "laboratorios-ifc.appspot.com",
-      messagingSenderId: "680686690857"
+      apiKey: "AIzaSyAfv0uoX204_VoztkT55fpNisavJI-iAVQ",
+      authDomain: "testes-em-geral-818c9.firebaseapp.com",
+      databaseURL: "https://testes-em-geral-818c9.firebaseio.com",
+      storageBucket: "testes-em-geral-818c9.appspot.com",
+      messagingSenderId: "1011415349173"
     },
     torii: {
       sessionServiceName: 'session'
